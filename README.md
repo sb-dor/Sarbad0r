@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Sarbad0r
-- 👀 I’m interested in Android and IOS developing 
-- 🌱 I’m currently learning Flutter SDK
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-
-<!---
-Sarbad0r/Sarbad0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+11010000 10100111 11010001 10000011 11010000 10110010 11010000 10110000 00100000 11010000 10110000 11010000 10111010 11010001 10001011 00111111
